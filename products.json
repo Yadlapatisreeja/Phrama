@@ -1,0 +1,291 @@
+[
+    {
+        "id": 1,
+        "name":" BABY LOTION",
+        "price": 200,
+        "image": "image/b1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" DIGESTIVE TONIC",
+        "price": 250,
+        "image": "image/b2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" BABY PAMPERS ",
+        "price": 290,
+        "image": "image/b3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" BABY CREAMY OIL",
+        "price": 200,
+        "image": "image/b4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" BABY BODY OIL",
+        "price": 300,
+        "image": "image/b5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" MULTIGRAIN & FRUITS ",
+        "price": 200,
+        "image": "image/b6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" BABY POWDER ",
+        "price": 200,
+        "image": "image/b7.png"
+    },
+    {
+        "id": 8,
+        "name":" BABY LOTION",
+        "price": 200,
+        "image": "image/b8.jpg"
+    },
+    {
+        "id": 9,
+        "name":" BABY LOTION",
+        "price": 200,
+        "image": "image/z1.jpg"
+    },
+    {
+        "id": 10,
+        "name":" DIGESTIVE TONIC",
+        "price": 250,
+        "image": "image/z2.jpg"
+    },
+    {
+        "id": 11,
+        "name":" BABY PAMPERS ",
+        "price": 290,
+        "image": "image/z3.jpg"
+    },
+    {
+        "id": 12,
+        "name":" BABY CREAMY OIL",
+        "price": 200,
+        "image": "image/z4.jpg"
+    },
+    {
+        "id": 13,
+        "name":" BABY BODY OIL",
+        "price": 300,
+        "image": "image/z5.jpg"
+    },
+    {
+        "id": 14,
+        "name":" MULTIGRAIN & FRUITS ",
+        "price": 200,
+        "image": "image/z6.jpg"
+    },
+    {
+        "id": 16,
+        "name":" BABY LOTION",
+        "price": 200,
+        "image": "image/z8.jpg"
+    },
+    {
+        "id": 16,
+        "name":" BABY LOTION",
+        "price": 200,
+        "image": "image/z7.jpg"
+    },
+    {
+        "id": 17,
+        "name":" BABY LOTION",
+        "price": 200,
+        "image": "image/c1.jpg"
+    },
+    {
+        "id": 18,
+        "name":" DIGESTIVE TONIC",
+        "price": 250,
+        "image": "image/c2.jpg"
+    },
+    {
+        "id": 19,
+        "name":" BABY PAMPERS ",
+        "price": 290,
+        "image": "image/c3.jpg"
+    },
+    {
+        "id": 20,
+        "name":" BANYAN HEALTHY HAIR",
+        "price": 200,
+        "image": "image/c4.jpg"
+    },
+    {
+        "id": 21,
+        "name":" ZANDU KESARI JIVAN",
+        "price": 85,
+        "image": "image/c5.jpg"
+    },
+    {
+        "id": 22,
+        "name":" KESHKING OIL ",
+        "price": 120,
+        "image": "image/c6.webp"
+    },
+    {
+        "id": 23,
+        "name":" PANTANGAJALI ASHWAGANDHA CHURNA ",
+        "price": 100,
+        "image": "image/c7.webp"
+    },
+    {
+        "id": 24,
+        "name":" MEDHORA GUGGULE",
+        "price": 200,
+        "image": "image/c8.webp"
+    },
+    {
+        "id": 25,
+        "name":" PARACETMOL TABLETS ",
+        "price": 200,
+        "image": "image/f1.webp"
+    },
+    {
+        "id": 26,
+        "name":" ACIDITY AND GAS RELIFE ",
+        "price": 30,
+        "image": "image/f2.webp"
+    },
+    {
+        "id": 27,
+        "name":" HIMALAYA TENTEX",
+        "price": 600,
+        "image": "image/f3.webp"
+    },
+    {
+        "id": 28,
+        "name":" ZINCOVIT CAPSUL ",
+        "price": 80,
+        "image": "image/f4.webp"
+    },
+    {
+        "id": 29,
+        "name":" VIGOMAX FORT ",
+        "price": 400,
+        "image": "image/f5.webp"
+    },
+    {
+        "id": 30,
+        "name":" SANDRIN TABS",
+        "price": 30,
+        "image": "image/f6.webp"
+    },
+    {
+        "id": 31,
+        "name":" KETABOOST TABLETS ",
+        "price": 162,
+        "image": "image/f7.webp"
+    },
+    {
+        "id": 32,
+        "name":" CURKEY PASTILES ",
+        "price": 80,
+        "image": "image/f8.webp"
+    },
+    {
+        "id": 33,
+        "name":" CETIRIZINE SYRUP ",
+        "price": 200,
+        "image": "image/g1.webp"
+    },
+    {
+        "id": 34,
+        "name":" COFSISLS SYRUP ",
+        "price": 150,
+        "image": "image/g2.webp"
+    },
+    {
+        "id": 35,
+        "name":" APTIVATE SYRUP",
+        "price": 100,
+        "image": "image/g3.webp"
+    },
+    {
+        "id": 36,
+        "name":" DEXORANGE SYRUP ",
+        "price": 450,
+        "image": "image/g4.webp"
+    },
+    {
+        "id": 38,
+        "name":" SAFI BLOOD CURIFYER SYRUP ",
+        "price": 200,
+        "image": "image/g5.webp"
+    },
+    {
+        "id": 39,
+        "name":" LEVIPIL SYRUP",
+        "price": 150,
+        "image": "image/g6.webp"
+    },
+    {
+        "id": 40,
+        "name":" CERMAFFINE SYRUP",
+        "price": 450,
+        "image": "image/g7.webp"
+    },
+    {
+        "id": 41,
+        "name":" AYURVED COUGH SYRUP ",
+        "price": 180,
+        "image": "image/g8.webp"
+    },
+    {
+        "id": 49,
+        "name":" ONE TOUCH VERIO FLEX GLUCOSE METER",
+        "price": 200,
+        "image": "image/e1.jpg"
+    },
+    {
+        "id": 42,
+        "name":" BLOOD PRESURE MONTING",
+        "price": 250,
+        "image": "image/e2.jpg"
+    },
+    {
+        "id": 43,
+        "name":" BIO SKIN AFTER ANKLE BRACE ",
+        "price": 290,
+        "image": "image/e3.jpg"
+    },
+    {
+        "id": 44,
+        "name":" GLUCO METER",
+        "price": 200,
+        "image": "image/e4.jpg"
+    },
+    {
+        "id": 45,
+        "name":" DIGITAL THERMOMETER",
+        "price": 300,
+        "image": "image/e5.jpg"
+    },
+    {
+        "id": 46,
+        "name":" WEINGHTING MEACHINE ",
+        "price": 777,
+        "image": "image/e6.jpg"
+    },
+    {
+        "id": 47,
+        "name":" PERGA NEWS ",
+        "price": 150,
+        "image": "image/e7.jpg"
+    },
+    {
+        "id": 48,
+        "name":" WRIST BINDER",
+        "price": 200,
+        "image": "image/e8.jpg"
+    }
+   
+]
